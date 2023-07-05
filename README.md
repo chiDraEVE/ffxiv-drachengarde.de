@@ -1,2 +1,2 @@
 # fullstackdevelopment.de
-Repository for my fullstackdevelopment.de website
+Repository for my ffxiv-drachengarde.de website. A homepage for the FF14 free company "Drachengarde" on the Server Lich
