@@ -17,8 +17,7 @@ wp-content/plugins/*
 
 !wp-content/themes/
 wp-content/themes/*
-#!wp-content/themes/my27child
-
+!wp-content/themes/drachengarde-theme
 
 # ignore node dependency directories
 node_modules/
